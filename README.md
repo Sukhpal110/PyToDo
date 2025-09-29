@@ -18,8 +18,7 @@ PyToDo/
 │── todo.py # Main Python script
 │── README.md # Documentation
 
-yaml
-Copy code
+
 
 ---
 
